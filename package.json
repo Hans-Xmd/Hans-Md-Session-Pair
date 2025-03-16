@@ -1,12 +1,12 @@
 {
     "description": "Bwm xmd scanner by Ibrahim Adams",
-    "main": "./hanstztech.js",
+    "main": "./bwmxmd.js",
   "engines" : { 
     "npm" : ">=9.7.2",
     "node" : ">=20.0.0"
     },
     "scripts": {
-    "start": "node hanstztech.js"
+    "start": "node bwmxmd.js"
   },
   "author": "Ibrahim Adams",
   "license": "GPL-3.0 license",
